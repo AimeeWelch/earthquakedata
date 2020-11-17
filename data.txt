@@ -4,4 +4,4 @@ Visual Earthquake Data
 
 Pie chart
 Bar chart
-Line chart
+
